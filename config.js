@@ -22,18 +22,18 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: " mais d'abords ss que l'amour là a augmenter mtn 😂​?",                                    // First interaction
+            text: " J'ai une surprise pour toi mais avant de te la montrer, es que t'ees prête 😂​?",                                    // First interaction
             yesBtn: "Oui",                                             // Text for "Yes" button
             noBtn: "Non",                                               // Text for "No" button
             secretAnswer: "Oui je sens que ça devient très interressant 😏​ ❤️"           // Secret hover message
         },
         second: {
-            text: "à combien de pourcent à peut prêt ?",                          // For the love meter
-            startText: "C'est beaucoup deh 😏​😂​",                                   // Text before the percentage
+            text: "D'abord à combien de poucent est affaire d'amour là 😂​?",                          // For the love meter
+            startText: "Utilise le curseur pour deplacer ​",                                   // Text before the percentage
             nextBtn: "Suivant ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Et enfin veux tu etre ma valentine en ce 14 Février 2026? 🌹", // The big question!
+            text: "Bon j'arrete de te fatiguer mtn 😂, ​ma choubidouboutchou, la princesse du prince, veux tu etre ma valentine ce 14 Février 2026 et meme au dela ? 🌹", // The big question!
             yesBtn: "Ouiiii !",                                             // Text for "Yes" button
             noBtn: "Non"                                                 // Text for "No" button
         }
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW Tu m'aimes à ce point ?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "À l'infini et au-delà! 🚀💝",              // Shows when they go past 1000%
-        normal: "On va voir 😏​ 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW Tu m'aimes à ce point ??, c'est dohi 😂​ 🥰🚀💝",  // Shows when they go past 3000%
+        high: "on va voir 🚀💝",              // Shows when they go past 1000%
+        normal: "je t'aime pas deh "                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Hourra ! Je suis la personne la plus chanceuse au monde ! 🎉💝💖💝💓",
-        message: "Viens maintenant chercher ton cadeau : un gros câlin chaleureux et un énorme bisou ! et qui sait ce qui peut se passer ensuite 😏​",
+        title: "Hourra ! Je me sennnnnnnns 😂​🎉💝💖💝💓",
+        message: "Mercie ma puce 😏​",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
