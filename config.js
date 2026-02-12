@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "on va faire comme les blancs là 😂 j'ai codé un petit truc pour toi pour te demander si tu veux etre ma valentine ? 💝 (faut cliquez sur non tu va voir un truc😂​) ​",
+    pageTitle: "Petit cadeau spécial ! ​",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
