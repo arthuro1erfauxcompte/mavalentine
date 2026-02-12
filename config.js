@@ -22,36 +22,36 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: " J'ai une surprise pour toi mais avant de te la montrer, es que t'ees prête 😂​?",                                    // First interaction
+            text: " je crois que c’est le bon moment pour te demander quelque chose 😏​💌😂​?",                                    // First interaction
             yesBtn: "Oui",                                             // Text for "Yes" button
             noBtn: "Non",                                               // Text for "No" button
-            secretAnswer: "Oui je sens que ça devient très interressant 😏​ ❤️"           // Secret hover message
+            secretAnswer: "Oui et je sens que ça devient très interressant 😏​❤️"           // Secret hover message
         },
         second: {
-            text: "D'abord à combien de poucent est affaire d'amour là 😂​?",                          // For the love meter
+            text: "Notre ambiance + notre solidité en équipe… on est à combien sur l’échelle “come back gagnant” ? 😏😂​?",                          // For the love meter
             startText: "Utilise le curseur pour deplacer ​",                                   // Text before the percentage
-            nextBtn: "Suivant ❤️"                                         // Text for the next button
+            nextBtn: "Malgré tout, je veux continuer l’aventure avec toi ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Bon j'arrete de te fatiguer mtn 😂, ​ma choubidouboutchou, la princesse du prince, veux tu etre ma valentine ce 14 Février 2026 et meme au dela ? 🌹", // The big question!
-            yesBtn: "Ouiiii !",                                             // Text for "Yes" button
-            noBtn: "Non"                                                 // Text for "No" button
+            text: "Alors la princesse de mon royaume, est-ce que je peux officiellement t’inviter à être ma Valentine ? 💌🌹", // The big question!
+            yesBtn: "Oui (j’attendais ça) 😏​❤️!",                                             // Text for "Yes" button
+            noBtn: "Ce bouton devait dire ‘Non’… mais c'est dohi 😂 "                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW Tu m'aimes à ce point ??, c'est dohi 😂​ 🥰🚀💝",  // Shows when they go past 3000%
-        high: "on va voir 🚀💝",              // Shows when they go past 1000%
-        normal: "je t'aime pas deh "                           // Shows when they go past 100%
+        extreme: "Wouah… à ce point-là ? 🔥😂​🥰🚀💝",  // Shows when they go past 3000%
+        high: "Hmm… on est sur une voie très prometteurse 😏🚀💝",              // Shows when they go past 1000%
+        normal: "je sais pas deh 😂 "                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Hourra ! Je me sennnnnnnns 😂​🎉💝💖💝💓",
-        message: "Mercie ma puce 😏​",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Hourra ! Je me sennnnnnnns 😏​😂​🎉",
+        message: "Alors le 14, on fera poisson au four dans l'après-midi… je sais que ça te manque😏​",
+        emojis: "🎁❤️"  // These will bounce around
     },
 
     // Color scheme for the website
