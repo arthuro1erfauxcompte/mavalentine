@@ -14,8 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: [],  // Heart emojis
-        bears: []                       // Cute bear emojis
+                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -66,10 +65,7 @@ const CONFIG = {
 
     // Animation settings
     // Adjust these if you want faster/slower animations
-    animations: {
-        floatDuration: "10s",           // How long it takes hearts to float up (10-20s recommended)
-        floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
-        heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
+ 
     },
 
 
