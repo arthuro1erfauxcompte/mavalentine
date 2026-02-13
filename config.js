@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Hourra ! Je me sennnnnnnns 😏​😂​🎉",
-        message: "Alors le 14, on fera poisson au four dans l'après-midi… je sais que ça te manque😏​",
+        message: "Alors le 14 je t'invite chez moi, on fera poisson au four dans l'après-midi… je sais que ça te manque😏​",
         emojis: "🎁❤️"  // These will bounce around
     },
 
@@ -77,7 +77,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://www.youtube.com/watch?v=Gwrfhy_wa1k&list=RDGwrfhy_wa1k&start_radio=1", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
